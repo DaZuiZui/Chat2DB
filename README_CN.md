@@ -86,9 +86,9 @@ Languages： 中文 [English](README.md)
 
 ## 🔥 AI配置
 ### 使用ChatGPT
-方式一（推荐）：使用OPENAI的ChatSql功能需要满足两个条件
-- 1、需要有一个openAI的key：OPENAI_API_KEY
-- 2、客户端网络可以连接到OPENAI官网，国内需要科学上网。注意：如果本地VPN未能全局生效，可以通过在客户端中设置网络代理HOST和PORT来保证网络连通性
+方式一（推荐）：使用OpenAI的ChatSql功能需要满足两个条件
+- 1、需要有一个OpenAI的key：OPENAI_API_KEY
+- 2、客户端网络可以连接到OpenAI官网，国内需要科学上网。注意：如果本地VPN未能全局生效，可以通过在客户端中设置网络代理HOST和PORT来保证网络连通性
   <a><img src="https://img.alicdn.com/imgextra/i2/O1CN01anrJMI1FEtSBbmTau_!!6000000000456-0-tps-1594-964.jpg" width="60%"/></a>
 
 方式二（推荐）：使用我们提供了一个统一的代理服务。
